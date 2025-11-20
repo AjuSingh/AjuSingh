@@ -1,7 +1,7 @@
 # Hi there, I'm Ajvinder Singh 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Systems;3%2B+Years+of+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Node.js+%7C+Golang+%7C+TypeScript;Building+Scalable+Systems;3%2B+Years+of+Experience" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ## 🚀 About Me
 
-Backend Software Engineer with **3+ years** of experience building scalable microservices using **Java, Spring Boot, and PostgreSQL**. I focus on designing clean RESTful APIs, optimizing system performance, and deploying reliable applications on AWS.
+Full Stack Software Engineer with **3+ years** of experience building scalable applications using **Node.js, Golang, TypeScript, Java, and React**. I specialize in designing high-performance APIs, optimizing system architecture, and deploying cloud-native applications on AWS and GCP.
 
-- 🔭 Currently working on **high-performance microservices architecture**
-- 🌱 Learning **Kubernetes orchestration & cloud-native patterns**
+- 🔭 Currently working on **high-performance microservices and real-time bidding systems**
+- 🌱 Learning **Kubernetes orchestration & distributed systems**
 - 💡 Passionate about **system design, performance optimization, and clean code**
 - 📫 Reach me at: **aju90534@gmail.com**
 
@@ -26,33 +26,40 @@ Backend Software Engineer with **3+ years** of experience building scalable micr
 ## 🛠️ Tech Stack
 
 ### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Backend & Frameworks**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Aerospike](https://img.shields.io/badge/Aerospike-C9202C?style=for-the-badge&logo=aerospike&logoColor=white)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### **Message Brokers & Tools**
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![SQS](https://img.shields.io/badge/AWS_SQS-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -60,27 +67,27 @@ Backend Software Engineer with **3+ years** of experience building scalable micr
 
 ## 💼 Professional Highlights
 
-```java
-public class AjvinderSingh {
+```typescript
+class AjvinderSingh {
+    role: string = "Full Stack Software Engineer";
+    yearsOfExperience: number = 3;
     
-    private String role = "Backend Software Engineer";
-    private int yearsOfExperience = 3;
-    
-    private String[] expertise = {
+    expertise: string[] = [
         "Microservices Architecture",
-        "REST API Design",
-        "Performance Optimization",
-        "Cloud Infrastructure (AWS)",
-        "System Design"
-    };
+        "Real-Time Bidding Systems",
+        "API Design & Optimization",
+        "Cloud Infrastructure (AWS/GCP)",
+        "System Design & Scalability"
+    ];
     
-    public Achievement[] getKeyWins() {
-        return new Achievement[] {
-            new Achievement("Reduced API response time from 2s to 60ms (97% improvement)"),
-            new Achievement("Cut infrastructure costs by 40% through optimization"),
-            new Achievement("Built high-performance bidding service: 2,500 req/sec under 100ms"),
-            new Achievement("Migrated legacy monolith to modern microservices architecture")
-        };
+    getKeyWins(): Achievement[] {
+        return [
+            { achievement: "Reduced API response time from 2s to 60ms (97% improvement)" },
+            { achievement: "Built RTB service handling 2,500 bids/sec under 100ms latency" },
+            { achievement: "Cut infrastructure costs by 40-65% through optimization" },
+            { achievement: "Reduced build times by 30% through architecture improvements" },
+            { achievement: "Automated processes reducing manual work from 1 day to 1.5 hours" }
+        ];
     }
 }
 ```
